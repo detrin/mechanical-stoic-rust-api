@@ -1,5 +1,5 @@
 # Mechanical Stoic Rust API
-You can find the website [here](https://hermandaniel.com/#/mechanicalstoic).
+You can find the website [here](https://old.hermandaniel.com/#/mechanicalstoic).
 ## Motivation
 This is my first attempt at creating a RESTful API using rust and axum framework. I am using this project to learn rust and axum. Plus who doesn't like to learn about the stoicism.
 
